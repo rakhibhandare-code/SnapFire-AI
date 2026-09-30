@@ -1,0 +1,29 @@
+Temperature,Smoke,Flame,Humidity,Label
+24,10,0,55,Normal
+25,12,0,52,Normal
+26,15,0,50,Normal
+27,18,0,48,Normal
+28,20,0,45,Normal
+29,25,0,43,Normal
+30,30,0,40,Normal
+31,35,0,38,Warning
+32,40,0,36,Warning
+33,45,0,34,Warning
+34,50,0,32,Warning
+35,55,1,30,Fire
+36,60,1,28,Fire
+37,65,1,27,Fire
+38,70,1,25,Fire
+39,75,1,24,Fire
+40,80,1,22,Fire
+41,85,1,20,Fire
+42,90,1,18,Fire
+43,95,1,16,Fire
+25,70,0,50,False Alarm
+26,75,0,48,False Alarm
+27,80,0,46,False Alarm
+28,85,0,44,False Alarm
+29,90,0,42,False Alarm
+30,95,0,40,False Alarm
+31,100,0,38,False Alarm
+32,105,0,36,False Alarm

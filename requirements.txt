@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+joblib
+opencv-python
+matplotlib
+ultralytics
+PySide6
+pygame

@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+runs/
+screenshots/
+vision_dataset/
+models/fire_smoke_yolo/
+models/fire_smoke_yolo_small/
+models/sensor_v2/
+models/sensor_v3/
+models/sensor_v4/
